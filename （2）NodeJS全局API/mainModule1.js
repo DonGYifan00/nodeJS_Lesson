@@ -1,4 +1,4 @@
-var child = require("./circleModule.js");
+var child = require("./circleModule1.js");
 
 
 child.circleFun(2);
